@@ -8,6 +8,8 @@ h1 {
     
 }
 .chinese {
-    size: 1000px;
-    color:white;
+    color:black;
+}
+.image {
+    image-rendering: center;
 }
