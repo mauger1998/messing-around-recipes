@@ -1,15 +1,34 @@
 body {
     text-align:center;
-    background-color: rgb(88, 61, 61)
+    background-color: rgb(88, 61, 61);
+    border-color:red;
       
 }
 h1 {
     color:white;
 }
 .list {
-    color:black;
+    text-align:left;
+    margin-left:100px;
+    border-color: blue;
+    color:white;
+
 }
 .welcome {
     color:white;
+    border-color:red;
+    border-width:10px;
 }
-
+.title {
+    margin-top: 10px;
+    margin-bottom:0px;
+    padding-bottom:0px;
+}
+.pig {
+    margin-top:10px;
+    padding:10px;
+    
+}
+.hat {
+    margin-top:10px;
+}

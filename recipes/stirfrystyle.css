@@ -1,6 +1,14 @@
 body {
     background-color:rgb(88, 61, 61);
 }
+.head.one {
+    color:white;
+    margin-left:100px;
+}
+.image {
+    margin-left:125px;
+}
 .head {
     color:white;
+    
 }
